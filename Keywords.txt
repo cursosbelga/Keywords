@@ -1,0 +1,93 @@
+filename:.npmrc _auth
+filename:gradlew
+extension:sql mysql dump
+extension:java
+filename:wp-config.php
+filename:logins.json
+filename:settings.py SECRET_KEY
+msg nickserv identify filename:config
+filename:secrets.yml
+filename:github-recovery-codes.txt
+extension:json cloud.redislabs.com
+filename:sftp.json path:.vscode
+filename:manifest.xml
+filename:prod.exs NOT prod.secret.exs
+filename:.sh_history
+filename:shadow path:etc
+HEROKU_API_KEY language:json
+HEROKU_API_KEY language:shell
+SF_USERNAME salesforce
+filename:.bash_profile aws
+filename:wp-config.php
+filename:id_rsa or filename:id_dsa
+language:python username
+language:php username
+language:sql username
+language:html
+language:perl
+language:shell username
+language:java api
+HOMEBREW_GITHUB_API_TOKEN language:shell
+in:login ( in:login)
+extension:pdf
+extension:epub
+extension:csproj
+extension:csproj.user
+extension:config
+extension:ico
+extension:asax
+extension:json
+extension:image
+extension:azw3
+extension:html
+extension:htm
+extension:odt
+extension:docx
+extension:xml
+extension:excel
+extension:cs
+extension:ppt
+extension:doc
+extension:csv
+extension:jpg
+extension:jpeg
+extension:png
+extension:ico
+extension:psd
+extension:exe
+extension:msi
+extension:bat
+extension:out
+extension:zip
+extension:rar
+extension:tar
+extension:apk
+extension:xapk
+extension:ipa
+extension:class
+extension:mp4
+extension:mp3
+extension:svg
+extension:js
+filename:login.js
+filename:index.js
+filename:home.js
+filename:home.html
+filename:home.php
+filename:login.php
+extension:run
+extension:bin
+extension:o
+extension:so
+filename:manifest.xml
+filename:settings.gradle
+filename:gradlew.bat
+filename:gradlew
+extension:db
+shodan_api_key language:python
+shodan_api_key language:shell
+shodan_api_key language:json
+shodan_api_key language:ruby
+filename:shadow path:etc
+filename:passwd path:etc
+extension:avastlic "support.avast.com"
