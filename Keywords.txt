@@ -1,3 +1,4 @@
+filename:xmlrpc.php
 filename:.npmrc _auth
 filename:gradlew
 extension:sql mysql dump
