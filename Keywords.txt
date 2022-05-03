@@ -93,5 +93,4 @@ filename:shadow path:etc
 filename:passwd path:etc
 extension:avastlic "support.avast.com"
 filename:elmah.axd
-extension:elmah.axd
-path:elmah.axd
+extension:.axd
